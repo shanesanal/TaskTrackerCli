@@ -27,7 +27,7 @@ Clone the Repository:
 
 bash
 Copy
-git clone https://github.com/your-username/task-tracker-cli.git
+git clone 'https://github.com/shanesanal/TaskTrackerCli.git
 cd task-tracker-cli
 Build the Project:
 
